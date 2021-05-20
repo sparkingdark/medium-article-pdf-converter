@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "date-time": "^3.1.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "medium-article-parser": "^0.1.5"
   },
   "devDependencies": {},
